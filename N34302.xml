@@ -112,14 +112,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:044915_0000_101F51FA1B7655A0"/>
-            <pb facs="tcp:044915_0001_101F51FE1B1AF700"/>
+            <pb facs="unknown:044915_0000_101F51FA1B7655A0"/>
+            <pb facs="unknown:044915_0001_101F51FE1B1AF700"/>
             <p>CATALOGUE OF Martin's CIRCULATING LIBRARY. AT No. 45, MAIN-STREET, BOSTON.</p>
             <p>PRINTED BY EDMUND FREEMAN.</p>
             <p>M,DCC,LXXXVI.</p>
          </div>
          <div type="terms">
-            <pb facs="tcp:044915_0002_101F51FFA705C6D0"/>
+            <pb facs="unknown:044915_0002_101F51FFA705C6D0"/>
             <head>TERMS of the CIRCULATING-LIBRARY.</head>
             <p>TWO DOLLARS <hi>Subſcription for</hi> THREE MONTHS, <hi>to be paid on ſubſcribing.</hi>
             </p>
@@ -151,7 +151,7 @@
       </front>
       <body>
          <div type="library_catalogue">
-            <pb facs="tcp:044915_0003_101F520395832808"/>
+            <pb facs="unknown:044915_0003_101F520395832808"/>
             <head>CATALOGUE OF BOOKS.</head>
             <list>
                <item>AWBREY's Miſcellanies,  vol. 1</item>
@@ -186,7 +186,7 @@
                   </gap>
                </item>
                <item>
-                  <pb n="4" facs="tcp:044915_0004_101F520598697B30"/>
+                  <pb n="4" facs="unknown:044915_0004_101F520598697B30"/>
 Adventures of a Bank Note, vol. 4</item>
                <item>—of David Simple, 2</item>
                <item>—of Jack Smart, 1</item>
@@ -234,7 +234,7 @@ Adventures of a Bank Note, vol. 4</item>
                      <desc>•</desc>
                   </gap>ne, 1</item>
                <item>
-                  <pb n="5" facs="tcp:044915_0005_101F52085AC71658"/>
+                  <pb n="5" facs="unknown:044915_0005_101F52085AC71658"/>
 Bibles of all ſorts</item>
                <item>Blair's Lectures, vol. 3</item>
                <item>—Sermons, 2</item>
@@ -284,7 +284,7 @@ Bibles of all ſorts</item>
                   </gap>
                </item>
                <item>
-                  <pb n="6" facs="tcp:044915_0006_101F520B94C1C820"/>
+                  <pb n="6" facs="unknown:044915_0006_101F520B94C1C820"/>
 Chamba<gap reason="illegible" resp="#AELD" extent="3 letters">
                      <desc>•••</desc>
                   </gap>'s French Grammar,</item>
@@ -330,7 +330,7 @@ Chamba<gap reason="illegible" resp="#AELD" extent="3 letters">
                <item>Count de B—, 1</item>
             </list>
             <list>
-               <pb n="7" facs="tcp:044915_0007_101F520E4B30C6D0"/>
+               <pb n="7" facs="unknown:044915_0007_101F520E4B30C6D0"/>
                <item>DACIER's PLATO, 2</item>
                <item>Doddridge's Lectures, 4to.</item>
                <item>—Riſe and Progreſs, 1</item>
@@ -372,7 +372,7 @@ Chamba<gap reason="illegible" resp="#AELD" extent="3 letters">
                <item>Eleanora, 2</item>
             </list>
             <list>
-               <pb n="8" facs="tcp:044915_0008_101F52126F0984E8"/>
+               <pb n="8" facs="unknown:044915_0008_101F52126F0984E8"/>
                <item>FEMALE SPECTATOR, 4</item>
                <item>—American, 2</item>
                <item>—Foundling, 2</item>
@@ -415,7 +415,7 @@ Chamba<gap reason="illegible" resp="#AELD" extent="3 letters">
                <item>Greek and Latin Teſtament,</item>
                <item>—Grammar, by Milner,</item>
                <item>
-                  <pb n="9" facs="tcp:044915_0009_101F52155C49B6E8"/>
+                  <pb n="9" facs="unknown:044915_0009_101F52155C49B6E8"/>
 Greek Teſtament, with Latin on one ſide,</item>
                <item>—Grammar, by Ward, and Moore, 1</item>
                <item>Gilbert's Common Pleas, 1</item>
@@ -512,7 +512,7 @@ Greek Teſtament, with Latin on one ſide,</item>
                <item>Henry and Francis,</item>
             </list>
             <list>
-               <pb n="10" facs="tcp:044915_0010_101F5219425630B8"/>
+               <pb n="10" facs="unknown:044915_0010_101F5219425630B8"/>
                <item>JULIET De ROUSBIGNIA, 2</item>
                <item>Johnſon's Dictionary, 2</item>
                <item>—Lives, 4</item>
@@ -567,7 +567,7 @@ Greek Teſtament, with Latin on one ſide,</item>
                   </gap>, 4</item>
                <item>Liberal Opinions, 4</item>
                <item>
-                  <pb n="11" facs="tcp:044915_0011_101F417E8FA91C08"/>
+                  <pb n="11" facs="unknown:044915_0011_101F417E8FA91C08"/>
 Livii, 4</item>
                <item>Life of Cromwell, 1</item>
                <item>—of Naſh, 1</item>
@@ -719,7 +719,7 @@ Livii, 4</item>
                      <desc>〈…〉</desc>
                   </gap>, 1</item>
                <item>
-                  <pb n="12" facs="tcp:044915_0012_101F52204F1C7050"/>
+                  <pb n="12" facs="unknown:044915_0012_101F52204F1C7050"/>
 Morality of Shakeſpear,</item>
                <item>Monteſque's Spirit of Laws,</item>
                <item>Man of Nature, 2</item>
@@ -781,7 +781,7 @@ Morality of Shakeſpear,</item>
                   </gap> 4</item>
             </list>
             <list>
-               <pb n="13" facs="tcp:044915_0013_101F5221D91E4C40"/>
+               <pb n="13" facs="unknown:044915_0013_101F5221D91E4C40"/>
                <item>PRIESTLY's Corruptions, <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -837,7 +837,7 @@ Morality of Shakeſpear,</item>
                <item>Revolutions of America, 8</item>
                <item>Rabelais Works,</item>
                <item>
-                  <pb n="14" facs="tcp:044915_0014_101F522362A2E1E0"/>
+                  <pb n="14" facs="unknown:044915_0014_101F522362A2E1E0"/>
 Rowe's Letters, 2</item>
                <item>Rouſſeau's Emilius, 4</item>
                <item>Rambler, 4</item>
@@ -917,7 +917,7 @@ Rowe's Letters, 2</item>
                      <desc>••••</desc>
                   </gap>, 3</item>
                <item>
-                  <pb n="15" facs="tcp:044915_0015_101F5227A15CB5E0"/>
+                  <pb n="15" facs="unknown:044915_0015_101F5227A15CB5E0"/>
 S<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>reveli's Lexicon.</item>
@@ -992,7 +992,7 @@ S<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>e, 2</item>
                <item>
-                  <pb n="16" facs="tcp:044915_0016_101F522B41587798"/>
+                  <pb n="16" facs="unknown:044915_0016_101F522B41587798"/>
 Voltair's Ignorant, Philoſopher,</item>
                <item>—do. Works, 36</item>
                <item>—do. Lewis, 3</item>
